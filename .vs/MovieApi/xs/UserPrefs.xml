@@ -1,29 +1,47 @@
 ﻿<Properties StartupConfiguration="{4118CBFA-100E-43E7-B9DE-25AEBBAA9BC7}|https">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieApi/Controllers/Movies.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Services/MovieService.cs">
     <Files>
-      <File FileName="MovieApi/Program.cs" />
-      <File FileName="Domain/Models/Reviews.cs" />
-      <File FileName="Domain/Data/BsMovieContext.cs" />
-      <File FileName="MovieApi/appsettings.json" />
-      <File FileName="Domain/MovieApi/obj/.EntityFrameworkCore.targets" />
-      <File FileName="Domain/Migrations/20221117034900_initial.cs" />
-      <File FileName="MovieApi/Controllers/Movies.cs" Line="21" Column="32" />
+      <File FileName="Domain/Services/MovieService.cs" Line="121" Column="1" />
+      <File FileName="Domain/Services/Interfaces/IMovieService.cs" Line="16" Column="38" />
+      <File FileName="Domain/Dtos/ReviewDto.cs" Line="1" Column="1" />
+      <File FileName="MovieApi/Program.cs" Line="23" Column="1" />
+      <File FileName="Domain/Models/Reviews.cs" Line="12" Column="1" />
+      <File FileName="Domain/Models/Movies.cs" Line="10" Column="20" />
+      <File FileName="MovieApi/appsettings.json" Line="3" Column="65" />
+      <File FileName="Domain/Data/BsMovieContext.cs" Line="16" Column="4" />
+      <File FileName="Domain/Migrations/20221119024011_MigrationM.cs" Line="1" Column="1" />
+      <File FileName="Domain/Dtos/MovieReview.cs" Line="6" Column="1" />
+      <File FileName="Domain/Dtos/MovieDto.cs" Line="4" Column="17" />
+      <File FileName="Domain/Helpers/PaginationModel.cs" Line="7" Column="29" />
+      <File FileName="MovieApi/Controllers/Movies.cs" Line="59" Column="1" />
+      <File FileName="Domain/Migrations/20221119024011_MigrationM.Designer.cs" Line="1" Column="1" />
+      <File FileName="Domain/Migrations/20221119024243_Migrationk.cs" Line="1" Column="1" />
+      <File FileName="Domain/Migrations/20221119024243_Migrationk.Designer.cs" Line="1" Column="1" />
+      <File FileName="Domain/Migrations/20221119042601_SeedingDB.cs" Line="71" Column="65" />
+      <File FileName="Domain/Migrations/BsMovieContextModelSnapshot.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MovieApi" expanded="True">
-            <Node name="MovieApi" expanded="True">
-              <Node name="Controllers" expanded="True" />
+            <Node name="Domain" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MovieApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
