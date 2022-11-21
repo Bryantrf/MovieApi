@@ -1,0 +1,14 @@
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/bin/Debug/net7.0/Domain.dll
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.dll
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/bin/Debug/net7.0/Domain.runtimeconfig.json
+/Users/bryantrijo/Dev/NET/MovieApi/Domain/obj/Debug/net7.0/Domain.genruntimeconfig.cache
